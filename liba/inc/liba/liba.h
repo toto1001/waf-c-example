@@ -3,4 +3,6 @@
 
 void liba_hello(void);
 
+void liba_goodbye(void);
+
 #endif /* !LIBA_LIBA_H */
